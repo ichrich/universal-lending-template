@@ -6,3 +6,9 @@
 
 /* Системная типографика и фотографии от края до края. */
 body{ -webkit-font-smoothing:antialiased}button,input,textarea,select{font-family:inherit}.hero{margin:0;border-radius:0;isolation:isolate}.hero .button{background:#fff;color:#111}.hero .button:hover{background:#e5e5e5}#projects{padding-left:0;padding-right:0}#projects>.section-head,#projects figcaption{padding-left:6%;padding-right:6%}.slider-frame,figure>img{border-radius:0}.slider-frame{height:clamp(330px,48vw,720px)}.contact{margin:0;border-radius:0;background:#f2f2f2}.plan.featured .button{background:#fff;color:#111}.plan.featured .button:hover{background:#ddd}@media(max-width:760px){.hero{margin:0}.contact{margin:0}#projects{padding-left:0;padding-right:0}#projects>.section-head,#projects figcaption{padding-left:7%;padding-right:7%}.slider-frame{height:360px}}
+
+.action-arrow {
+  display: inline-block;
+  vertical-align: -0.15em;
+  margin-inline-start: 0.2em;
+}
